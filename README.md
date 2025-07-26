@@ -38,7 +38,7 @@ A practical, end-to-end Natural Language Processing (NLP) pipeline for sentiment
 ## 📒 Usage
 1. **Open the notebook**
    ```bash
-   jupyter notebook hands-nlp.ipynb
+   jupyter notebook main.ipynb
    ```
 2. **Run all cells** to:
    - Download NLTK and spaCy resources
